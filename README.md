@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-This repository contains a Jupyter notebook that demonstrates the use of generative AI techniques to create synthetic ophthalmological images based on the Brazilian Multilabel Ophthalmological Dataset (BRSET). The project aims to develop models for both classification and generation of high-quality, diverse eye images.
+This repository contains a Jupyter notebook that demonstrates the use of generative AI techniques to create synthetic ophthalmological images based on the Brazilian Multilabel Ophthalmological Dataset (BRSET). The project aims to develop models for both classification and generation of high quality, diverse eye images.
 
 ## Goals
 
 1. Create a high-performance classifier for ophthalmological conditions using the BRSET dataset.
-2. Implement a StyleGAN2-based generator capable of producing realistic eye images.
+2. Implement a StyleGAN2 based generator capable of producing realistic eye images.
 3. Discover and visualize attributes that are important for classifying various eye conditions.
 4. Generate synthetic images that could potentially be used to augment existing datasets.
 
@@ -22,7 +22,7 @@ The project follows a multi-step process inspired by the paper "Using generative
 
 ## Data Source
 
-The data used in this project is from the Brazilian Multilabel Ophthalmological Dataset (BRSET), available on Physionet. Due to data use agreements, the dataset is not included in this repository.
+The data used in this project is from the Brazilian Multilabel Ophthalmological Dataset, available on Physionet. Due to data use agreements, the dataset is not included in this repository.
 
 ## Ethical Considerations
 
